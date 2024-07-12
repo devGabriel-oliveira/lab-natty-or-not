@@ -20,19 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# INFORMAÇÕES SOBRE PIS E CONFINS, NOTAS FISCAIS DE REMESSA E DEMONSTRAÇÕES FINANCEIRAS ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+DETALHANDO SOBRE PIS E CONFINS, NOTAS FISCAIS DE REMESSA E DEMONSTRAÇÕES FINANCEIRAS DE ACORDO
+COM A LEGISLAÇÃO BRASILEIRA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+studio.d-id e CHAT GPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Descreva como você criou o conteúdo:
+Utilizando a minha imagem e da empresa que atuo
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Apresente os resultados do seu projeto:
+Aprendi sobre o processo de criação de vídeo de uma IA apresentando sobre um tema
+bastante interessante.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
